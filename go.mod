@@ -6,7 +6,7 @@ require (
 	github.com/grandcat/zeroconf v1.0.0
 	github.com/miekg/dns v1.1.54
 	go.codecomet.dev/core v0.0.0-20230523023219-d6073b26dd87
-	golang.org/x/net v0.10.0
+	golang.org/x/net v0.17.0
 )
 
 require (
@@ -15,6 +15,6 @@ require (
 	github.com/mattn/go-isatty v0.0.17 // indirect
 	github.com/rs/zerolog v1.29.1 // indirect
 	golang.org/x/mod v0.7.0 // indirect
-	golang.org/x/sys v0.8.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/tools v0.3.0 // indirect
 )
